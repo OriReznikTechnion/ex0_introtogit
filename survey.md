@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Facecebook Blue
+Favorite fo: Savta's hamin
+Favorite musician/band: musician
+Favorite movie: The Room 
+Requested grade in the course: 42  
